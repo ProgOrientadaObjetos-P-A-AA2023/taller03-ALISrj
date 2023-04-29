@@ -18,7 +18,7 @@ public class Terreno {
     }
     
     public void establecerLargo(double c){
-        largo = c;
+         largo = c;
     }
     
     public void calcularArea(){

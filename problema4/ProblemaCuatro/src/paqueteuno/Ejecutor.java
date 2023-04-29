@@ -14,7 +14,7 @@ public class Ejecutor {
         int ivaPorcentaje = 12;
         String dirMac = "00-1B-77-70-32";
         String imei = "862139812998231";
-
+                
         ag33.establecerSo(so);
         ag33.establecerTamanio(tamanio);
         ag33.establecerCostoInicial(costoInicial);
