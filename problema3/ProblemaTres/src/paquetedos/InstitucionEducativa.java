@@ -37,7 +37,7 @@ public class InstitucionEducativa {
     }
     
     public void establecerNumSedes(int n){
-        numDocentes = n;
+        numSedes = n;
     }
     
     public void establecerGastoxEstudiante(double d){
@@ -68,17 +68,13 @@ public class InstitucionEducativa {
     }
     
     public int obtenerNumSedes(){
-        return numDocentes;
+        return numSedes;
     }
     
     public double obtenerGastoxEstudiante(){
         return gastoxEstudiante;
     }
-    
-    public double establecerPresupuesto(){
-        return presupuesto;
-    }
-    
+        
     public double obtenerPresupuesto(){
         return presupuesto;
     }
